@@ -13,11 +13,11 @@ You’re new to the research group. There are a lot of tasks to get done before 
 - Join the [Churchill Lab Github](https://github.com/churchill-lab) group.
 - [Learn how to use Github](https://swcarpentry.github.io/git-novice/).
 - Add yourself to the [Churchill Lab website](http://churchill-lab.jax.org/website/).
+- Read [Wilson et al, (2017). Good enough practices in scientific computing](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005510).
 - Find your way around the Jackson Laboratory with the
 1. [Campus & Town Overview Map](https://myjax-p.jax.org/Facilities/engineering/GeneralMap/JAX_Conference_Town.Map2016.pdf)
 2. [Campus Building Map](https://myjax-p.jax.org/Facilities/engineering/GeneralMap/website.simpleblk.pdf)
 3. [Research Lab Map](https://myjax-p.jax.org/Facilities/engineering/GeneralMap/rl_locator_map.pdf)
-- Read [Wilson et al, (2017). Good enough practices in scientific computing](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005510).
 
 # Administrative
 ## Travel
@@ -59,7 +59,7 @@ If Gary is the cause of the concern or you would prefer he not be involved, offi
 
 We expect research group members to follow these rules in all professional settings including the office, conferences, workshop venues, and group-related social events. We additionally expect members to treat each other professionally with respect to their work and workspaces, with constructive criticism, without dismissive behavior, and without disruption of shared working spaces.
 
-**Authorship:** Our lab follows the guidelines from the (ICMJE's Uniform Requirements for Manuscripts Submitted to Biomedical Journals)[http://icmje.org/recommendations/browse/roles-and-responsibilities/defining-the-role-of-authors-and-contributors.html].
+**Authorship:** Our lab follows the guidelines from the [ICMJE's Uniform Requirements for Manuscripts Submitted to Biomedical Journals](http://icmje.org/recommendations/browse/roles-and-responsibilities/defining-the-role-of-authors-and-contributors.html).
 
 **Ethics:** We expect lab members to be honest in scientific communications both within and outside the lab.
 We expect that lab members will design experiments in a manner that minimizes both bias and self deception.
@@ -82,7 +82,7 @@ Lab members must follow  the agreements with our sponsors, which often allow, en
 If you have concerns at any point, set up a meeting with Gary to discuss these concerns.
 
 **Accounts:** Lab members are expected to have accounts for the following and be members of the specified (organizations) if applicable:
-+ GitHub ([churchill-lab])(https://github.com/churchill-lab)
++ GitHub [(churchill-lab)](https://github.com/churchill-lab)
 + cadillac.jax.org
 + helix.jax.org
 
