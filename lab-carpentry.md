@@ -59,7 +59,13 @@ If Gary is the cause of the concern or you would prefer he not be involved, offi
 
 We expect research group members to follow these rules in all professional settings including the office, conferences, workshop venues, and group-related social events. We additionally expect members to treat each other professionally with respect to their work and workspaces, with constructive criticism, without dismissive behavior, and without disruption of shared working spaces.
 
-**Authorship:** Our lab follows the guidelines from the [ICMJE's Uniform Requirements for Manuscripts Submitted to Biomedical Journals](http://icmje.org/recommendations/browse/roles-and-responsibilities/defining-the-role-of-authors-and-contributors.html).
+**Authorship:** Write early and often! See these resources for excellent writing advice:
+- [Writing Science: How to Write Papers That Get Cited and Proposals That Get Funded](https://www.amazon.com/Writing-Science-Papers-Proposals-Funded/dp/0199760241)
+- [Writing Science: Story Structure](https://vimeo.com/17432903) by Joshua Schimel
+- [Writing Science: Language](https://vimeo.com/17433480) by Joshua Schimel
+- [Writing Science: Flow](https://vimeo.com/17433887) by Joshua Schimel
+- [The Science of Scientific Writing](https://drive.google.com/file/d/0B2dCQeenp__seHlGaGpfRm1HUnc/edit) by Gopen & Swan
+Our lab follows the guidelines from the [ICMJE's Uniform Requirements for Manuscripts Submitted to Biomedical Journals](http://icmje.org/recommendations/browse/roles-and-responsibilities/defining-the-role-of-authors-and-contributors.html).
 
 **Ethics:** We expect lab members to be honest in scientific communications both within and outside the lab.
 We expect that lab members will design experiments in a manner that minimizes both bias and self deception.
