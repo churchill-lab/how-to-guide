@@ -55,8 +55,6 @@ Group members asked to stop any harassing behavior are expected to comply immedi
 
 If a member engages in harassing behavior, other group members and Gary Churchill may take any action they deem appropriate to stop this behavior. If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact Gary Churchill immediately. Gary Churchill is available to help group members contact security or local law enforcement, navigate official Laboratory reporting channels, or otherwise assist those experiencing harassment to feel safe in the research environment.
 
-If Gary is the cause of the concern or you would prefer he not be involved, official concerns can be addressed by contacting the [Jackson Laboratory Human Resources](https://myjax-p.jax.org/HR/) office.
-
 We expect research group members to follow these rules in all professional settings including the office, conferences, workshop venues, and group-related social events. We additionally expect members to treat each other professionally with respect to their work and workspaces, with constructive criticism, without dismissive behavior, and without disruption of shared working spaces.
 
 **Authorship:** Write early and often! See these resources for excellent writing advice:
