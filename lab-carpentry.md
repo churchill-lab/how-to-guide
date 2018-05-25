@@ -65,12 +65,13 @@ We expect research group members to follow these rules in all professional setti
 - [The Science of Scientific Writing](https://drive.google.com/file/d/0B2dCQeenp__seHlGaGpfRm1HUnc/edit) by Gopen & Swan
 Our lab follows the guidelines from the [ICMJE's Uniform Requirements for Manuscripts Submitted to Biomedical Journals](http://icmje.org/recommendations/browse/roles-and-responsibilities/defining-the-role-of-authors-and-contributors.html).
 
-**Ethics:** We expect lab members to be honest in scientific communications both within and outside the lab.
-We expect that lab members will design experiments in a manner that minimizes both bias and self deception.
-We expect that lab members will keep agreements, be careful, and share their code and results openly with the scientific community.
-We expect that credit will be given where credit is due, including in scientific writing.
+**Ethics:** We expect lab members to
+- be honest in scientific communications both within and outside the lab.
+- design experiments in a manner that minimizes both bias and self deception.
+- keep agreements, be careful, and share their code and results openly with the scientific community.
+- give credit where credit is due, including in scientific writing.
 Plagiarism is not tolerated.
-In addition, please don't hesitate to raise any questions or concerns that you have at any point with Gary.
+In addition, please don't hesitate to raise any questions or concerns that you have at any point with Gary or Sue.
 
 # Communication
 
@@ -78,8 +79,8 @@ In addition, please don't hesitate to raise any questions or concerns that you h
 
 **Social Media:** Lab members are encouraged to communicate through public social media, and if you choose to do so then you are expected to follow our code of conduct.
 
-**Projects:** By the nature of our research, lab members will often have the opportunity to participate projects managed via private or publicly accessible source code repositories.
-In these cases, lab members are expected to: follow the code of conduct and expect that private repositories will be world accessible.
+**Projects:** By the nature of our research, lab members will often have the opportunity to participate in projects managed via private or publicly accessible source code repositories.
+In these cases, lab members are expected to follow the code of conduct and expect that private repositories will be world accessible.
 
 **IP/Openness:** This is handled in accordance with the instructions from our research sponsors and laboratory guidance.
 Lab members must follow  the agreements with our sponsors, which often allow, encourage, or require openness.
@@ -87,8 +88,8 @@ If you have concerns at any point, set up a meeting with Gary to discuss these c
 
 **Accounts:** Lab members are expected to have accounts for the following and be members of the specified (organizations) if applicable:
 + GitHub [(churchill-lab)](https://github.com/churchill-lab)
-+ cadillac.jax.org
-+ helix.jax.org
++ cadillac.jax.org (see the [IT helpdesk](https://myjax-p.jax.org/IT/servicedesk/) for access)
++ helix.jax.org (see the [IT helpdesk](https://myjax-p.jax.org/IT/servicedesk/) for access)
 
 ## Meetings
 
@@ -116,7 +117,7 @@ To quote from _The Pragmatic Programmer_:
 You should be, too…
 People should see your name on a piece of code and expect it to be solid, well written, tested, and documented.
 
-While some code will be proof-of-concept code, it should be of a form that inspires confidence.
+While some code will be proof-of-concept code, it should be of a form that inspires confidence. Use Google's [R Style Guide](https://google.github.io/styleguide/Rguide.xml), [Python Style Guide](https://google.github.io/styleguide/pyguide.html), and [Shell Style Guide](https://google.github.io/styleguide/shell.xml).
 
 **Language:** We write code for our analyses in Python or R, which allows everyone in the lab to know two languages and understand analytical code.
 Code for visualization can be Python, R, or javascript.
